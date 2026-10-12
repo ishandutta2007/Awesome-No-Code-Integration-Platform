@@ -64,7 +64,7 @@ The table below compiles premier SaaS and managed cloud integration suites, orde
 
 Explore the top self-hostable and transparent workflow engines, integration frameworks, and visual automation repositories. All projects are sorted in **descending order by GitHub stargazers**:
 
-| Repository & Stars Badge | Description & Capabilities | License |
+| Repository & Stars_Badge | Description & Capabilities | License |
 | :--- | :--- | :--- |
 | **[n8n](https://github.com/n8n-io/n8n)** <br> [![Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers) | Premier fair-code workflow automation tool with 400+ native nodes, visual canvas, AI agents, and custom JS/Python execution. | Sustainable Use License |
 | **[Supabase](https://github.com/supabase/supabase)** <br> [![Stars](https://img.shields.io/github/stars/supabase/supabase?style=social&color=white)](https://github.com/supabase/supabase/stargazers) | Open-source Firebase alternative featuring built-in database webhooks, Edge Functions, real-time triggers, and event pipelines. | Apache-2.0 |
