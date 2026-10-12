@@ -1,6 +1,6 @@
 # Awesome-No-Code-Integration-Platform
 
-# Top No-Code Integration Platform Ecosystem
+## Top No-Code Integration Platform Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Visual Workflow Automation, App Connectivity & Event-Driven Orchestration*  
